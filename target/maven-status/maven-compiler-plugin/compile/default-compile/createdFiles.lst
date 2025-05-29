@@ -1,2 +1,6 @@
+com\nttyplc\cliente_service\ServiceDB.class
 com\nttyplc\cliente_service\ClienteServiceApplication.class
 com\nttyplc\cliente_service\ClienteController.class
+com\nttyplc\cliente_service\WebConfig.class
+com\nttyplc\cliente_service\ApiResponse.class
+com\nttyplc\cliente_service\WebConfig$1.class
